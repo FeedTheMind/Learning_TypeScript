@@ -1,0 +1,7 @@
+TypeScript affixes "types" after the variable.
+
+Ex: name: string = 'Insert your name.';
+
+If a type is not specified, TypeScript will infer the type based on the value.
+
+Ex: var name = 'Insert your name.'; // TypeScript will determine that this variable has string data.
